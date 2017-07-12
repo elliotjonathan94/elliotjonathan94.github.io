@@ -15,4 +15,4 @@ This blog is helping me to learn the basics of webpage design and manipulation, 
 
 ### Contact me
 
-[email@domain.com](mailto:elliotj@live.unc.edu)
+[elliotj@live.unc.edu](mailto:elliotj@live.unc.edu)
