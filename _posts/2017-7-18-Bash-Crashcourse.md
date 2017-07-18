@@ -11,6 +11,6 @@ I then took this file and converted it to
 4.html.  
 The process was simple!  
 I just followed the prompting from John's bash script and I entered corresponding commands.  
-It looks pretty much like this: pandoc -o OriginalWork.html OriginalWork.md. That particular command converts from markdown to HTML.  
+It looks pretty much like this: ```pandoc -o OriginalWork.html OriginalWork.md.``` That particular command converts from markdown to HTML.  
 In the end, I converted my work, OriginalDocument1, from markdown into four other types of file! You can find them all [here.](https://github.com/elliotjonathan94/convert-documents)
 The shell scripting that I used to create these documents is located in the same repository, it's under ELLIOTJONATHAN94-convert-docs.sh
