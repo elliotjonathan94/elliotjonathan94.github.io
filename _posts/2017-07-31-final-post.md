@@ -1,4 +1,3 @@
-# Final Blog Post
 Phew... That was a heck of a [final assignment](https://github.com/elliotjonathan94/SLIDESHOW). For starters, I am really bad at determining my own topic. 
 But, hey I had to get the work done. I was pretty swamped all weekend with other classes, and I struggled in the times I did work on this to understand what I was doing. 
 The whole time I was right there! I just needed a small *nudge* through the door of learning; thanks for that John. 

@@ -1,4 +1,3 @@
-# Assignment 4
 Well the fourth assignment really had me confused for quite some time... For some reason, I had the most difficulty with MySQL databasing that I had with anything in this class so far.
 However, the good thing is that this information has been very beneficial and I have learned quite a bit while stumbling around cluelessly through the software.
 I hope to work for the State Department one day, and *data analytics* is most certainly a componenet of their business!
